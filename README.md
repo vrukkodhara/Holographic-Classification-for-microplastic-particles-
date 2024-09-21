@@ -14,3 +14,6 @@ Using machine learning algorithms trained to recognize certain characteristics o
 
 ## Future enhancemets :
 A bigger dataset can be collected, precision score of the VGG16 can be improved.
+
+Published paper is available at :
+https://ieeexplore.ieee.org/document/10602278
